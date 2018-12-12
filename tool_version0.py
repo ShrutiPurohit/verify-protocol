@@ -1,5 +1,14 @@
 #!/bin/python3
 
+#This version has 5 basic functionalities: creates, reads, sends, learns, unpacks
+#creates: creates a new local object
+#reads: reads an existing local object
+#sends: sends a local object to other principal(s)
+#learns: learns and stores an object received
+#unpacks: unpacks and stores different parts of the object.
+
+#You are to initially specify the number of principals taking part in the protocol and the intial objects.
+
 import math
 import os
 import random
