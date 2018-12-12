@@ -1,5 +1,12 @@
 #!/bin/python3
 
+#This version has 3 basic functionalities: creates, sends, receives.
+#creates: creates a new local object
+#sends: sends a local object to other principal(s)
+#receives: stores locally an object received
+
+#You are to initially specify the number of principals taking part in the protocol and the intial objects.
+
 import math
 import os
 import random
