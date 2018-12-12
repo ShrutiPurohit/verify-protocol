@@ -1,0 +1,44 @@
+ours
+3
+A
+B
+S
+4
+a
+A
+A,B,S
+A
+b
+B
+A,B,S
+B
+kas
+S
+A,S
+S
+kbs
+S
+B,S
+S
+A creates f1(O1,O2) for S
+A sends O4 to S
+S receives O5
+S creates f2(O6,O2) for S
+S creates kab for A,B
+S creates f3(O7,O8) for A
+S creates f4(O9,O2) for A
+S creates f5(O0,O8) for B
+S creates f6(O11,O3) for B
+S creates f7(O10,O12) for A
+S sends O13 to A
+A receives O14
+A creates f8(O15) for A
+A creates f9(O15) for B
+A creates f10(O16,O2) for A
+A creates f11(O18) for A
+A creates f12(O18) for A
+A sends O17 to B
+B receives O21
+B creates f13(O22,O3) for B
+B creates f14(O23) for B
+B creates f15(O23) for B

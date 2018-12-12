@@ -1,0 +1,42 @@
+ns
+2
+A
+B
+4
+ka
+A
+A,B
+A
+ka'
+A
+A
+A
+kb
+B
+A,B
+B
+kb'
+B
+B
+B
+A creates na for B
+A creates a for B
+A creates f1(O4,O5) for B
+A creates f2(O6,O2) for B
+A sends O7 to B
+B receives O8
+B creates f3(O9,O3) for B
+B creates f4(O10) for A
+B creates f5(O10) for B
+B creates nb for A
+B creates f6(O11,O13) for A
+B creates f7(O14,O0) for A
+B sends O15 to A
+A receives O16
+A creates f8(O17,O1) for A
+A creates f9(O18) for A
+A creates f10(O18) for B
+A creates f11(O20,O2) for B
+A sends O21 to B
+B receives O22
+B creates f12(O23,O3) for B

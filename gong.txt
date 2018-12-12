@@ -1,0 +1,68 @@
+gongs
+3
+A
+B
+S
+4
+a
+A
+A,B,S
+A
+b
+B
+A,B,S
+B
+Pa
+A
+A,S
+A
+Pb
+B
+B,S
+B
+A creates na for B
+A creates f1(O0,O1,O4) for B
+A sends O5 to B
+B receives O6
+B creates f2(O7) for S
+B creates f3(O7) for S
+B creates f4(O7) for S
+B creates nb for S
+B creates f5(O8,O1,O10,O11) for S
+B sends O12 to S
+S receives O13
+S creates f6(O14) for S
+S creates f7(O14) for S
+S creates f8(O14) for S
+S creates f9(O14) for S
+S creates ns for A,B
+S creates f10(O19,O17,O16,O2) for S
+S creates f11(O20) for S
+S creates f12(O20) for S
+S creates f13(O20) for S
+S creates f14(O19,O18,O15,O3) for B
+S creates f15(O21,O22,O23,O3) for B
+S creates f16(O19,O25,O26) for B
+S sends O27 to B
+B receives O28
+B creates f17(O29) for A
+B creates f18(O29) for B
+B creates f19(O29) for B
+B creates f20(O30,O11,O0,O3) for B
+B creates f21(O31,O33) for B
+B creates f22(O31,O33) for B
+B creates f23(O31,O33) for B
+B creates f24(O34,O35,O36,O3) for B
+B creates f25(O37,O32) for B
+B creates f26(O30,O36) for A
+B sends O39 to A
+A receives O40
+A creates f27(O41) for A
+A creates f28(O41) for A
+A creates f29(O42,O4,O1,O2) for A
+A creates f30(O44) for A
+A creates f31(O44) for B
+A creates f32(O44) for A
+A sends O46 to B
+B receives O48
+B creates f33(O49) for B
